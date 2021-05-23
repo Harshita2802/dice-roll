@@ -1,1 +1,2 @@
-# dice-roll
+# dice-roll 
+rolling of dice as you enter yes
